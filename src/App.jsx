@@ -1,6 +1,8 @@
-import './App.css'
+// import './App.css'
+import './index.css'
+
 import TestFirebase from "./TestFirebase.jsx";
-import Login from "./Login.jsx";
+import Login from "@/Login";
 import { useState } from "react";
 
 function App() {
